@@ -3,11 +3,6 @@ using System.Globalization;
 
 namespace Lab2
 {
-    /// <summary>
-    /// Клас "Product" (Товар) — демонстрація інкапсуляції та властивостей.
-    /// Всі поля private. Доступ тільки через public-властивості з валідацією set.
-    /// Є: автoвластивість, обчислювальна, різні рівні доступу get/set, private-методи.
-    /// </summary>
     public class Product
     {
         // ---------- private-поля (вимога 1) ----------
@@ -183,3 +178,4 @@ namespace Lab2
         }
     }
 }
+
